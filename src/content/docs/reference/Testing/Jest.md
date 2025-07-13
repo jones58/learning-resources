@@ -2,6 +2,8 @@
 title: Jest
 ---
 
+(notes adapted from Founders and Coders course)
+
 Jest is one of most popular testing frameworks for its ease of use.
 
 Simplest way of understanding tests is to think of tests as of bits of code that check if a given function produces the expected result. Such as:
@@ -80,8 +82,9 @@ like beforeEach, can write a new function before each test.
 
 ## Resources
 
-[Jest Crash Course](https://www.youtube.com/watch?v=IPiUDhwnZxA) - a good starting point for learning about Jest.
 [Jest for Beginners](https://www.valentinog.com/blog/jest/) - this explains really well what testing is for, and how to use Jest.
+
+[Jest and React Testing Library Course](https://www.codecademy.com/enrolled/courses/learn-react-testing)
 
 To learn more about Jest:
 
